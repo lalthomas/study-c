@@ -4,8 +4,10 @@
 //  Web          : http://lalamboori.blogspot.com/
 //  Compiled on  : MigW
 //  Tested  on   : Windows XP */
+
 #include<stdio.h>
 #include<stdlib.h>
+
 int main()
 {
   char Pause;

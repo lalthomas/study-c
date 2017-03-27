@@ -8,9 +8,6 @@
 #include<stdio.h>
 int main()
 {
-
-
-
   int a[10],n,i,j;
   printf("Enter no of elements : ");
   scanf("%d",&n);

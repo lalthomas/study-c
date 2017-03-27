@@ -1,9 +1,10 @@
-///*Program      :
+//	Program      : find the smallest of a series of numbers
 //  Programmer   : Lal Thomas
 //  Email        : lal.thomas.mail@gmail.com
 //  Web          : http://lalamboori.blogspot.com/
 //  Compiled on  : MigW
 //  Tested  on   : Windows XP */
+
 #include<stdio.h>
 
 int main()

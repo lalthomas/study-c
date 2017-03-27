@@ -1,7 +1,9 @@
-/*Program on C++
-Programmer : Lal Thomas
-Compiled on Turbo C++
-Tested on Windows*/
+//	Program      : find whether a number is prime or not
+//  Programmer   : Lal Thomas
+//  Email        : lal.thomas.mail@gmail.com
+//  Web          : http://lalamboori.blogspot.com/
+//  Compiled on  : Turbo C++, MigW
+//  Tested  on   : Windows XP
 
 #include<stdio.h>
 
@@ -27,5 +29,4 @@ int  main()
 
   return 1;
 }
-
 

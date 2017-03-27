@@ -17,7 +17,7 @@ int main()
   else if (ch>=0&&ch<=9)
     printf("It is a digit");
   else
-    printf("It is a special charater");
+    printf("It is a special character");
   /*
   /* Prepares Program to wait
   /* accepting a keystroke

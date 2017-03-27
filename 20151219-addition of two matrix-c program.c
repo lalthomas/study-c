@@ -1,9 +1,10 @@
-///*Program      : Matrix Addition
+/// Program      : Matrix Addition
 //  Programmer   : Lal Thomas
 //  Email        : lal.thomas.mail@gmail.com
 //  Web          : http://lalamboori.blogspot.com/
 //  Compiled on  : MigW
-//  Tested  on   : Windows XP */
+//  Tested  on   : Windows XP
+
 #include<stdio.h>
 
 
@@ -25,7 +26,7 @@ void main()
               scanf("%d",&a[i][j]);
             }
         }
-      printf("Enter the elements of the second martix\n " );
+      printf("Enter the elements of the second matrix\n " );
       for(i=0;i<r2;i++)
         {
           for(j=0;j<c2;j++)
@@ -56,6 +57,3 @@ void main()
       printf(" Not conformable for addition ");
     }
 }
-
-
-

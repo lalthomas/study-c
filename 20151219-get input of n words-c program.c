@@ -2,6 +2,7 @@
   Programmer : Lal Thomas
   Compiled on Turbo C++
   Tested on Windows*/
+
 #include<stdio.h>
 
 int  main()

@@ -1,10 +1,13 @@
-///*Program      :
+//	Program      : find whether a number is palindrome or not
 //  Programmer   : Lal Thomas
 //  Email        : lal.thomas.mail@gmail.com
 //  Web          : http://lalamboori.blogspot.com/
 //  Compiled on  : MigW
-//  Tested  on   : Windows XP */
+//  Tested  on   : Windows XP
+
 #include<stdio.h>
+#include<stdlib.h>
+
 int  main()
 {
   int num,tem,image=0;
@@ -20,6 +23,6 @@ int  main()
   if(num-image==0)
     printf("%d is a palindrome number",num);
   else
-    printf(" %d is not a palindrome number",num);
+    printf("%d is not a palindrome number",num);
   return 1;
 }

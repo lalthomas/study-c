@@ -1,9 +1,10 @@
-///*Program      :
+//	Program      : find the sum of even and odd numbers till 100
 //  Programmer   : Lal Thomas
 //  Email        : lal.thomas.mail@gmail.com
 //  Web          : http://lalamboori.blogspot.com/
 //  Compiled on  : MigW
-//  Tested  on   : Windows XP */
+//  Tested  on   : Windows XP
+
 #include<stdio.h>
 void main()
 {
@@ -17,4 +18,3 @@ void main()
   printf("\nSum of Odd numbers less than 100 is %d",sumodd);
 
 }
-

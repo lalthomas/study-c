@@ -1,9 +1,9 @@
-///*Program      : Biggest of a Series
+//  Program      : Biggest of a Series
 //  Programmer   : Lal Thomas
 //  Email        : lal.thomas.mail@gmail.com
 //  Web          : http://lalamboori.blogspot.com/
 //  Compiled on  : MigW
-//  Tested  on   : Windows XP */
+//  Tested  on   : Windows XP
 
 #include<stdio.h>
 #include<stdlib.h>

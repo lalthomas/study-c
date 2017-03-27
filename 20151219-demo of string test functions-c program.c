@@ -1,8 +1,8 @@
-
 /*Program on C++
   Programmer : Lal Thomas
   Compiled on Turbo C++
   Tested on Windows*/
+  
 #include<stdio.h>
 #include<stdlib.h>
 #include<ctype.h>

@@ -1,8 +1,11 @@
-/*Program on C++
-  Programmer : Lal Thomas
-  Compiled on Turbo C++
-  Tested on Windows*/
-#include<stdio.h>
+/*
+	Program on C++
+	Programmer : Lal Thomas
+	Compiled on Turbo C++
+	Tested on Windows
+*/
+
+  #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
 
